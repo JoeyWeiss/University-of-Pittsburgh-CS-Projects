@@ -1,0 +1,3 @@
+For the first part of this project, I created a game emulating a table top role playing game (RPG). In a table top RPG, each player creates a character in the game which he/she controls. Characters can fight with each other and the outcome of the fight is decided by chance, taking into consideration the equipment each character carries. The chance factor is injected by using a roll of one or more dice(s). This particular game emulates a fight between two players: Player 1 and Player 2. The game proceeds in 2 stages: Player Setup Stage and Fight Stage.
+
+For the second part I made a utility that can transform a BMP image using one of two operations: “invert” or “grayscale”.
