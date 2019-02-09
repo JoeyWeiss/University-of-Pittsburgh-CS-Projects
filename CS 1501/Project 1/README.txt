@@ -1,1 +1,1 @@
-
+This is an implementaion of a De La Briandais trie data structure which reads all the words in a dictionary, and when a user begins to type in a word, the program will suggest words to autocomplete what he/she has written. If what the user has typed is not in the dictionary, the program will save the new word, and add it to its list of suggestions for future words. Additionally, if a user has autocompleted using a suggestion, that word becomes more likely to be shown as a future suggestion.
